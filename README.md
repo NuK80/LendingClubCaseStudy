@@ -14,6 +14,10 @@
 EDA on data provided has been undertaken using the PowerBI Desktop Tool
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+## Technologies Used
+PowerBI Desktop Tool
+MS Excel
+MS Powerpoint
 
 ## Conclusions
 - Approx 14% of loans are defaulted.
@@ -21,22 +25,6 @@ EDA on data provided has been undertaken using the PowerBI Desktop Tool
 - More defaulters are likely from specific areas/ states
 - Loan Terms and Instalments need to be considered as they affect likely hood of their being paid up
 
-
-
-
-
-## Technologies Used
-PowerBI Desktop Tool
-MS Excel
-MS Powerpoint
-
-
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
 
 
 ## Contact
